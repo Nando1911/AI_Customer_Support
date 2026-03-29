@@ -24,3 +24,12 @@ Bot de atención al cliente usando OpenAI GPT-4o-mini.
 ```bash
 git clone https://github.com/tu_usuario/AI_Customer_Support.git
 cd AI_Customer_Support
+
+
+### Ejemplo de interacción
+
+![Ejecución en consola](images/ejecucion_consola.png)
+
+![Resumen de respuestas](images/resumen_respuestas.png)
+
+![Demo del asistente](images/salida.png)
